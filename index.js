@@ -5,8 +5,8 @@
 
         Created: Fri Aug 23 2019 14:57:53 GMT-0700 (Pacific Daylight Time)
         Updated: Thu Mar 19 2020 08:15:08 GMT-0700 (Pacific Daylight Time)
-
-    */
+        /*
+    function(1e3){}
 
     let Exploit = function () {
         this.terms = {};
@@ -20,13 +20,13 @@
             'Powerups': [
                 {
                     'name': 'Love Song',
-                    'price': 55
+                    'price': 5
                 }, {
                     'name': 'Clapinator',
-                    'price': 25
+                    'price': 15
                 }, {
                     'name': 'Icer',
-                    'price': 45
+                    'price': 4
                 }, {
                     'name': 'Deflector',
                     'price': 60
@@ -38,13 +38,13 @@
                     'price': 205
                 }, {
                     'name': 'Subtractor',
-                    'price': 155
+                    'price': 15
                 }, {
                     'name': 'Reducer',
                     'price': 135
                 }, {
                     'name': 'Discounter',
-                    'price': 255
+                    'price': 25
                 }, {
                     'name': 'Mini Bonus',
                     'price': 25
